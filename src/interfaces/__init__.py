@@ -1,0 +1,1 @@
+# Interfaces layer - MCP Server integration
